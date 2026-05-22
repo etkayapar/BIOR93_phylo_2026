@@ -13,16 +13,16 @@ Then you will need to apply some of the skills you acquired to complete the cour
 
 ## **Schedule**
 
-**Location:** Lectures are held in the Blue Hall (**BH**) or the Red Hall (**RH**). Tutorials are held in Maskrosen (E121), Mossen Väster (B140), and Mossen Öster (B141). 
+**Location:** Lectures are held in the Blue Hall (**BH**) or the Red Room (**RR**). Tutorials are held in Maskrosen (E121), Mossen Väster (B140), and Mossen Öster (B141). 
 
 
-| Hours\Days  | Monday May 25                                           | Tuesday May 26                                   | Wednesday May 27                                                          |
-|-------------|----------------------------------------------------------|----------------------------------------------------|------------------------------------------------------------------------|
-| 9:00-10:00  | Lecture (**BH**): Introduction to molecular phylogenetics         | Lecture (**BH**): Introduction to model-based phylogenetics | Lecture (**BH**): Properties of DNA data and assessing robustness of hypotheses |
-| 10:00-12:00 | Tutorial 1        | Tutorials 3 and 4         | Tutorial 6                                |
-| 12:00-13:00 | Lunch             | Lunch                     | Lunch                                     |
-| 13:00-14:00 | Lecture (**RH**): Trees and alignment                        | Lecture (**RH**): ML and Bayesian phylogenetic inference           | Tutorial 7                                    |
-| 14:00-16:00 | Tutorial 2        | Tutorial 5; Explanation of course assignment       | Course assignment                                         |
+| Hours\Days  | Monday May 25                                             | Tuesday May 26                                              | Wednesday May 27                                                                |
+|-------------|-----------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------------------------------------------|
+| 9:00-10:00  | Lecture (**BH**): Introduction to molecular phylogenetics | Lecture (**BH**): Introduction to model-based phylogenetics | Lecture (**BH**): Properties of DNA data and assessing robustness of hypotheses |
+| 10:00-12:00 | Tutorial 1                                                | Tutorials 3 and 4                                           | Tutorial 6                                                                      |
+| 12:00-13:00 | Lunch                                                     | Lunch                                                       | Lunch                                                                           |
+| 13:00-14:00 | Lecture (**RR**): Trees and alignment                     | Lecture (**RR**): ML and Bayesian phylogenetic inference    | Tutorial 7                                                                      |
+| 14:00-16:00 | Tutorial 2                                                | Tutorial 5; Explanation of course assignment                | Course assignment                                                               |
 
 
 
@@ -63,9 +63,9 @@ Here are deposited the instructions for the exercises and the module assignment.
  
 
 
-### [Programs used in the tutorials](./Software/)
+### Programs used in the tutorials
 
-Here you can find a list of the programs we are going to use. All the programs have been installed within the conda environment so don't forget to activate the environment.
+Here you can find a list of the programs we are going to use. All the programs have been installed within the conda environment so **don't forget to activate the environment**.
 
  * **Text Editor:**: We will use Visual Studio Code (installed on desktops) or BBEdit (needs to be installed on Mac laptops).
 
