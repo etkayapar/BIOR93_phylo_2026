@@ -1,6 +1,6 @@
 # Assignment
 
-Add your name to one of the rows in this spreadsheet [here](https://docs.google.com/spreadsheets/d/1VYY7-ZHgKt1sSojdA3Fv1WBcGX6WjfPnGcKyXUKZD2o/edit#gid=356692471). The genes marked in the row next to your name are the ones you need to analyse for the assignment.
+In this spreadsheet [here](https://docs.google.com/spreadsheets/d/1VYY7-ZHgKt1sSojdA3Fv1WBcGX6WjfPnGcKyXUKZD2o/edit#gid=356692471) you will find the genes for your assignment. The genes marked in the row next to your name are the ones you need to analyse for the assignment.
 
 
 **Assignment** You need to make a concatenated dataset of the 4 genes that have been assigned to you, along with a gene partition file (as you did in [Tutorial 2](../Tutorials/Alignments)), then analyse this dataset in IQ-TREE (as you did in [Tutorial 5](../Tutorials/MaximumLikelihood)).
