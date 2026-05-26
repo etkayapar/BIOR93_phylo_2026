@@ -19,9 +19,9 @@ Then you will need to apply some of the skills you acquired to complete the cour
 | Hours\Days  | Monday May 25                                             | Tuesday May 26                                              | Wednesday May 27                                                                |
 |-------------|-----------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------------------------------------------|
 | 9:00-10:00  | Lecture (**BH**): Introduction to molecular phylogenetics | Lecture (**BH**): Introduction to model-based phylogenetics | Lecture (**BH**): Properties of DNA data and assessing robustness of hypotheses |
-| 10:00-12:00 | Tutorial 1                                                | Tutorials 3 and 4                                           | Tutorial 6                                                                      |
+| 10:00-12:00 | Tutorial 1                                                | Tutorials 3 and 4                                           | Tutorials 6 and 7                                                                      |
 | 12:00-13:00 | Lunch                                                     | Lunch                                                       | Lunch                                                                           |
-| 13:00-14:00 | Lecture (**RR**): Trees and alignment                     | Lecture (**RR**): ML and Bayesian phylogenetic inference    | Tutorial 7                                                                      |
+| 13:00-14:00 | Lecture (**RR**): Trees and alignment                     | Lecture (**RR**): ML and Bayesian phylogenetic inference    | Course assignment                                                                      |
 | 14:00-16:00 | Tutorial 2                                                | Tutorial 5; Explanation of course assignment                | Course assignment                                                               |
 
 
